@@ -9,3 +9,7 @@
 	body:before, body:after {
 		display: none;
 	}
+
+	#header {
+		background: linear-gradient(to right, rgb(43, 192, 228), rgb(234, 236, 198));
+	}
