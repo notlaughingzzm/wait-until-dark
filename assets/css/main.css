@@ -1839,8 +1839,11 @@ input, select, textarea {
 	}
 		
 		#header img {
-			width: 3em;
-			height: 3em;
+			position: absolute;
+			left: 0.5em;
+			top: 0;
+			height: 2.5em;
+			line-height: 2.5em;
 		}
 
 		#header h1 {
