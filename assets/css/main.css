@@ -1832,15 +1832,20 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: linear-gradient(to right, rgb(43, 192, 228), rgb(234, 236, 198));
+		background: rgba(255, 255, 255, 1);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
 	}
+		
+		#header img {
+			width: 3em;
+			height: 3em;
+		}
 
 		#header h1 {
 			position: absolute;
-			left: 1em;
+			left: 3em;
 			top: 0;
 			height: 3em;
 			line-height: 3em;
