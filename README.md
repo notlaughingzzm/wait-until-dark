@@ -62,7 +62,7 @@ npm run dev # or yarn dev
 
 1. *Star* 并 分享这个项目 :rocket:
 2. 保留主题 footer(页脚) 的主题链接 :D
-3. 关注公众号`yqyjs666`，回复`前端学习`，可获取 [前端学习资源](https://github.com/chenzeliang/blog-gitalk-comment/wiki/Front-end-Study)
+3. 关注公众号`chenzeliang`，回复`前端学习`，可获取 [前端学习资源](https://github.com/chenzeliang/blog-gitalk-comment/wiki/Front-end-Study)
 4. 轻轻点击一次页面广告 ✨
 5. 通过以下二维码 一次性捐款。 我多半会买一杯 ~~咖啡~~ 茶。:tea:
 
@@ -80,15 +80,10 @@ npm run dev # or yarn dev
 :heart:感谢为这个项目贡献代码的朋友 → [Contributors](https://github.com/chenzeliang/vuepress-theme-vdoing/graphs/contributors)
 
 ## Vdoing官方交流群
-群号：694387113
+群号：29351232
 
-<img src="https://cdn.jsdelivr.net/gh/chenzeliang/image_store/blog/20200712122307.jpg" alt="群号：694387113" width="200">
+<img src="https://cdn.jsdelivr.net/gh/chenzeliang/image_store/blog/20200712122307.jpg" alt="群号：群号：29351232" width="200">
 
-## 公众号
-`有趣研究社`是本人对各种有趣的、好玩的、沙雕的创意和想法以在线小网站或者文章的形式表达出来，比如80、90后朋友小时候玩的小霸王游戏机：<https://game.chenzeliang.com>，还有更多好玩的等你去探索吧~
-
-<img src="https://cdn.jsdelivr.net/gh/chenzeliang/image_store@master/blog/扫码_搜索联合传播样式-标准色版.1wp8gd1mhjhc.jpg"  style="width:370px;" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/chenzeliang/image_store@master/blog/qrcode.zdqv9mlfc0g.jpg"  style="width:30%;" /> -->
 
 ## 许可证
 [MIT](https://github.com/chenzeliang/vuepress-theme-vdoing/blob/master/LICENSE)
