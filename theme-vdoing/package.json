@@ -5,13 +5,13 @@
   "author": {
     "name": "gaoyi(Evan) Xu"
   },
-  "homepage": "https://github.com/xugaoyi/vuepress-theme-vdoing#readme",
+  "homepage": "https://github.com/chenzeliang/vuepress-theme-vdoing#readme",
   "bugs": {
-    "url": "https://github.com/xugaoyi/vuepress-theme-vdoing/issues"
+    "url": "https://github.com/chenzeliang/vuepress-theme-vdoing/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xugaoyi/vuepress-theme-vdoing.git"
+    "url": "git+https://github.com/chenzeliang/vuepress-theme-vdoing.git"
   },
   "dependencies": {
     "@better-scroll/core": "^2.0.0-beta.6",
@@ -41,7 +41,7 @@
   "license": "MIT",
   "main": "index.js",
   "maintainers": [{
-    "name": "Evan xu",
-    "email": "894072666@qq.com"
+    "name": "CHENZELIANG",
+    "email": "29351232@qq.com"
   }]
 }
