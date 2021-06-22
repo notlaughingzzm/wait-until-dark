@@ -64,8 +64,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:notlaughingzzm/ master:blogs
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-git push -f git@github.com:notlaughingzzm/notlaughingzzm.github.io.git master
-
+git push -f git@github.com:notlaughingzzm/notlaughingzzm.github.io.git main
 cd -
 
 # 最后发布的时候执行 bash deploy.sh
